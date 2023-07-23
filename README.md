@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farnaz Movahedi</h1>
+<h1 align="center">Hi 👋, It's Farnaz Movahedi</h1>
 <h3 align="center">A passionate Computer Engineer from Iran</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
