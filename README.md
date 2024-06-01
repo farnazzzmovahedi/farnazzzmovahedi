@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farnazzzmovahedi&label=Profile%20views&color=0e75b6&style=flat" alt="farnazzzmovahedi" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **farnazmovahedi97@gamil.com**
 
