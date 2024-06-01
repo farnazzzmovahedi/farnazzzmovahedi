@@ -1,10 +1,6 @@
 <h1 align="center">Hi ^^, It's Farnaz Movahedi</h1>
 <h3 align="center">A passionate Computer Engineer from Iran</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farnazzzmovahedi&label=Profile%20views&color=0e75b6&style=flat" alt="farnazzzmovahedi" /> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **farnazmovahedi97@gamil.com**
